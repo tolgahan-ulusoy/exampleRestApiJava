@@ -1,13 +1,13 @@
-package com.javaProject.hibernateAndJpa;
+package com.javaProject.exampleRestApiJava;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HibernateAndJpaApplication {
+public class ExampleRestApiJava {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HibernateAndJpaApplication.class, args);
+		SpringApplication.run(ExampleRestApiJava.class, args);
 	}
 
 }

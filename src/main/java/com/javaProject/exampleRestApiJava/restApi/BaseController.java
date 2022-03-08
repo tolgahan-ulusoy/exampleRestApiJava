@@ -1,4 +1,4 @@
-package com.javaProject.hibernateAndJpa.restApi;
+package com.javaProject.exampleRestApiJava.restApi;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 

@@ -1,6 +1,6 @@
-package com.javaProject.hibernateAndJpa.Business;
+package com.javaProject.exampleRestApiJava.Business;
 
-import com.javaProject.hibernateAndJpa.Entities.User;
+import com.javaProject.exampleRestApiJava.Entities.User;
 
 import java.util.List;
 

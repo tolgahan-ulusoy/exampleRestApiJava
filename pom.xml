@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.javaProject</groupId>
-	<artifactId>hibernateAndJpa</artifactId>
+	<artifactId>exampleRestApiJava</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hibernateAndJpa</name>
+	<name>exampleRestApiJava</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>

@@ -1,5 +1,5 @@
-package com.javaProject.hibernateAndJpa.DataAccess;
-import com.javaProject.hibernateAndJpa.Entities.User;
+package com.javaProject.exampleRestApiJava.DataAccess;
+import com.javaProject.exampleRestApiJava.Entities.User;
 import java.util.List;
 
 public interface IUserDal {

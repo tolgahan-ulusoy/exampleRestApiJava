@@ -1,6 +1,6 @@
-package com.javaProject.hibernateAndJpa.DataAccess;
+package com.javaProject.exampleRestApiJava.DataAccess;
 
-import com.javaProject.hibernateAndJpa.Entities.User;
+import com.javaProject.exampleRestApiJava.Entities.User;
 import org.hibernate.Session;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;

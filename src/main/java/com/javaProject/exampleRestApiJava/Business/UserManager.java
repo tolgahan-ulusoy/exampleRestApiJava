@@ -1,8 +1,7 @@
-package com.javaProject.hibernateAndJpa.Business;
+package com.javaProject.exampleRestApiJava.Business;
 
-import com.javaProject.hibernateAndJpa.DataAccess.IUserDal;
-import com.javaProject.hibernateAndJpa.Entities.User;
-import org.hibernate.Session;
+import com.javaProject.exampleRestApiJava.DataAccess.IUserDal;
+import com.javaProject.exampleRestApiJava.Entities.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

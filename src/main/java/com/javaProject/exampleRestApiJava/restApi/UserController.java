@@ -1,7 +1,7 @@
-package com.javaProject.hibernateAndJpa.restApi;
+package com.javaProject.exampleRestApiJava.restApi;
 
-import com.javaProject.hibernateAndJpa.Business.IUserService;
-import com.javaProject.hibernateAndJpa.Entities.User;
+import com.javaProject.exampleRestApiJava.Business.IUserService;
+import com.javaProject.exampleRestApiJava.Entities.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

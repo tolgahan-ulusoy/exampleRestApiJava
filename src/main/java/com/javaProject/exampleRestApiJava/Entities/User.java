@@ -1,4 +1,4 @@
-package com.javaProject.hibernateAndJpa.Entities;
+package com.javaProject.exampleRestApiJava.Entities;
 import javax.persistence.*;
 
 @Entity

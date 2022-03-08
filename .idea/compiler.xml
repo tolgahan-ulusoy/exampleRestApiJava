@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hibernateAndJpa" />
+        <module name="exampleRestApiJava" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="exampleRestApiJava" options="-parameters" />
       <module name="hibernateAndJpa" options="-parameters" />
     </option>
   </component>
